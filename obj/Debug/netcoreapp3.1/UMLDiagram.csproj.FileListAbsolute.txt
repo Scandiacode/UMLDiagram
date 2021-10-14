@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\UMLDiagram\obj\Debug\netcoreapp3.1\UMLDiagram.csproj.AssemblyReference.cache
+C:\Users\logan\source\repos\UMLDiagram\obj\Debug\netcoreapp3.1\UMLDiagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\UMLDiagram\obj\Debug\netcoreapp3.1\UMLDiagram.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\UMLDiagram\obj\Debug\netcoreapp3.1\UMLDiagram.AssemblyInfo.cs
+C:\Users\logan\source\repos\UMLDiagram\obj\Debug\netcoreapp3.1\UMLDiagram.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\UMLDiagram\bin\Debug\netcoreapp3.1\UMLDiagram.exe
+C:\Users\logan\source\repos\UMLDiagram\bin\Debug\netcoreapp3.1\UMLDiagram.deps.json
+C:\Users\logan\source\repos\UMLDiagram\bin\Debug\netcoreapp3.1\UMLDiagram.runtimeconfig.json
+C:\Users\logan\source\repos\UMLDiagram\bin\Debug\netcoreapp3.1\UMLDiagram.runtimeconfig.dev.json
+C:\Users\logan\source\repos\UMLDiagram\bin\Debug\netcoreapp3.1\UMLDiagram.dll
+C:\Users\logan\source\repos\UMLDiagram\bin\Debug\netcoreapp3.1\UMLDiagram.pdb
+C:\Users\logan\source\repos\UMLDiagram\obj\Debug\netcoreapp3.1\UMLDiagram.dll
+C:\Users\logan\source\repos\UMLDiagram\obj\Debug\netcoreapp3.1\UMLDiagram.pdb
+C:\Users\logan\source\repos\UMLDiagram\obj\Debug\netcoreapp3.1\UMLDiagram.genruntimeconfig.cache
